@@ -2,7 +2,7 @@
 
 Para rodar em sua máquina, clone o repositório:
 ```sh
-git clone https://github.com/luizzanoni/gerenciamentoTarefas.git
+git clone https://github.com/luizzanoni/GerenciamentoTarefas.git
 ```
 
 Para criar os arquivos de compilação, digite no terminal:
