@@ -20,4 +20,4 @@ caso contrário (Linux):
 ./gerenciador_tarefas
 ```
 
-Agora teste e e aproveite!
+Agora teste e aproveite!
